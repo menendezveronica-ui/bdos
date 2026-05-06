@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260506175937MHSTQY</value>
+    <value>20260506184503HIFIOJ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260506175937KK22CQ</value>
+    <value>20260506184503C39169</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -24,11 +24,23 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>SdA “Confort y seguridad inteligentes: del esquema al diagnóstico”</value>
+    <value>SdA “Confort y seguridad inteligentes del esquema al diagnostico”</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Veronica Menendez</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
     <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
   </odeProperty>
   <odeProperty>
     <key>pp_theme</key>
@@ -40,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778079250680</value>
+    <value>1778085778988</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -60,7 +72,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addMathJax</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>exportSource</key>
@@ -152,9 +164,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
             <div class="exe-text-activity">
-                <div><p><img src="{{context_path}}/content/resources/20260423113655749K54/PORTADA_1.png" title="PORTADA SdA" width="849" height="1200" alt=""></p><p class="clearfix"></p></div>
+                <div><p><img src="{{context_path}}/content/resources/20260423113655749K54/PORTADA_1.jpg" title="PORTADA SdA" width="849" height="1200" alt=""></p><p class="clearfix"></p></div>
             </div></div></div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20260423113655749K54","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20260423113655749K54/PORTADA_1.png\" title=\"PORTADA SdA\" width=\"849\" height=\"1200\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20260423113655749K54","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20260423113655749K54/PORTADA_1.jpg\" title=\"PORTADA SdA\" width=\"849\" height=\"1200\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
